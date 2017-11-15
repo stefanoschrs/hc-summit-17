@@ -1,2 +1,3 @@
-# hc-summit-17
-Hack {Cyprus} Summit 2017
+# How to win a hackathon
+> Hack {Cyprus} Summit 2017
+
